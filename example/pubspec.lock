@@ -4,11 +4,12 @@ packages:
   android_libcpp_shared:
     dependency: transitive
     description:
-      name: android_libcpp_shared
-      sha256: f0fa67e595a220615c3329e4eb58d372f155ae6058caf22a70c8e4f7036b12f4
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.1"
+      path: "."
+      ref: HEAD
+      resolved-ref: "8481b48b8c0754c80d424df1627258f7e8276ff8"
+      url: "https://github.com/AttalliAyoub/android_libcpp_shared.git"
+    source: git
+    version: "0.1.2"
   archive:
     dependency: transitive
     description:
